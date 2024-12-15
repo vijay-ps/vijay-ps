@@ -32,10 +32,7 @@ Discover other projects [here](https://github.com/vijay-ps).
 
 ## 🌐 Connect With Me
 - 📧 Email: [vijaykrish2123@gmail.com](mailto:vijaykrish2123@gmail.com)
-- 📱 Phone: +91 7449229905
 - 🌍 Location: Chennai, India
-- 💻 [GitHub](https://github.com/vijay-ps)
-
 ---
 
 > "Keep learning, keep growing, and keep coding!" – Vijay PS

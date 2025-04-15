@@ -12,10 +12,9 @@ Welcome to my GitHub! I'm a passionate **Software Engineering student** at the *
 ---
 
 ## 🛠️ Skills
-- **Programming Languages:** Java, Python, JavaScript, C, C++
-- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), MySQL
+- **Programming Languages:** Java, Python,TypeScript, JavaScript, C, C++
+- **Web Development:** Next.js, MongoDB, Express.js, React.js, Node.js, MySQL, Supabase, Bootstrap, Tailwindcss
 - **Tools & Workflows:** Git/GitHub, Agile Development
-- **Soft Skills:** Problem-solving, Teamwork, Creativity
 
 ---
 

@@ -25,9 +25,6 @@ Welcome to my GitHub! I'm a passionate **Software Engineering student** at the *
 - Implemented seamless **backend and frontend integration** using **Express.js** and **MongoDB**.
 - Gained deep insights into the **MERN workflow**.
 
-### 📂 More Projects
-Discover other projects [here](https://github.com/vijay-ps).
-
 ---
 
 ## 🌐 Connect With Me

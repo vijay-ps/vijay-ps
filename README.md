@@ -1,34 +1,62 @@
-# 👋 Hi, I'm Vijay PS
+# 🌟 Hi, I'm Vijay PS
 
-Welcome to my GitHub! I'm a passionate **Software Engineering student** at the **Vellore Institute of Technology, Chennai**, constantly exploring the depths of programming, development, and innovation. 🚀
-
----
-
-## 🧑‍💻 About Me
-- 🌱 I’m currently mastering **MERN Stack Development** and diving deeper into **Software Engineering principles**.
-- 💡 I love building **efficient systems** and exploring cutting-edge technologies like **AI** and **blockchain**.
-- 🔗 Check out my [LinkedIn](https://www.linkedin.com/in/vijayps2123/) for more about my journey!
+A passionate **Software Engineering student at Vellore Institute of Technology, Chennai**, building impactful and scalable digital solutions. I enjoy transforming ideas into real-world applications using modern full-stack technologies and AI. 🚀
 
 ---
 
-## 🛠️ Skills
-- **Programming Languages:** Java, Python,TypeScript, JavaScript, C, C++
-- **Web Development:** Next.js, MongoDB, Express.js, React.js, Node.js, MySQL, Supabase, Bootstrap, Tailwindcss
-- **Tools & Workflows:** Git/GitHub, Agile Development
+## 🚀 What I Do
+- 🔭 Currently mastering the **MERN Stack** and **Next.js**
+- 🤖 Exploring **AI, ML, and Agentic AI (CrewAI / LangGraph)** systems
+- 🛠️ Building production-ready projects with clean architecture
+- 🌱 Continuously learning, improving, and experimenting
 
 ---
 
-## 🌟 Projects
-### 💸 MERN Expense Management System
-- A powerful app for managing and analyzing daily expenses.
-- Implemented seamless **backend and frontend integration** using **Express.js** and **MongoDB**.
-- Gained deep insights into the **MERN workflow**.
+## 💻 Tech Stack
+
+### **Languages**
+- Java  
+- Python  
+- TypeScript  
+- JavaScript  
+- C  
+- C++  
+
+### **Frameworks & Libraries**
+- Next.js  
+- React.js  
+- Express.js  
+- Node.js  
+
+### **Databases**
+- MongoDB  
+- MySQL  
+- Supabase  
+
+### **Tools & Workflows**
+- Git / GitHub  
+- REST APIs  
+- Tailwind CSS  
+- Bootstrap  
+- Agile Development  
+
+---
+
+## 🧠 Areas of Interest
+- Full-Stack Web Development  
+- Artificial Intelligence & Machine Learning  
+- Agentic AI Systems  
+- Software Architecture & System Design  
+- Cloud & DevOps Fundamentals  
 
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: [vijaykrish2123@gmail.com](mailto:vijaykrish2123@gmail.com)
-- 🌍 Location: Chennai, India
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/vijayps2123/  
+- 📧 **Email:** vijaykrish2123@gmail.com  
+- 📍 **Location:** Chennai, India  
+
 ---
 
-> "Keep learning, keep growing, and keep coding!" – Vijay PS
+## ✨ Quote I Live By
+> “Every day is a chance to build something meaningful — keep learning, keep shipping.” – Vijay PS

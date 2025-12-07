@@ -6,7 +6,7 @@ A passionate **Software Engineering student at Vellore Institute of Technology, 
 
 ## 🚀 What I Do
 - 🔭 Currently mastering the **MERN Stack** and **Next.js**
-- 🤖 Exploring **AI, ML, and Agentic AI (CrewAI / LangGraph)** systems
+- 🤖 Exploring **AI, ML, and IoT** systems
 - 🛠️ Building production-ready projects with clean architecture
 - 🌱 Continuously learning, improving, and experimenting
 

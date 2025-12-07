@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm PS Vijay</h1>
-<h3 align="center">A passionate Software Engineering student at Vellore Institute of Technology, Chennai, <br> building impactful and scalable digital solutions. I enjoy transforming ideas into real-world applications using modern full-stack technologies and AI. 🚀</h3>
+<h1>Hi 👋, I'm PS Vijay</h1>
+<h3>A passionate Software Engineering student at Vellore Institute of Technology, Chennai, <br> building impactful and scalable digital solutions. I enjoy transforming ideas into real-world applications using modern full-stack technologies and AI. 🚀</h3>
 
 - 🌱 I’m currently learning **Large Language Models And Agentic AI**
 
